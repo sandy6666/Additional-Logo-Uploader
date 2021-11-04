@@ -1,0 +1,3 @@
+type StoreConfig @doc(description: "The type contains information about a store config") {
+    mobile_logo_src : String @doc(description: "Mobile Logo Image")
+}
